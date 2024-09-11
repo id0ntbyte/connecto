@@ -1,6 +1,5 @@
 <?php
 
-require './vendor/autoload.php';
 
     if (!function_exists('errorMessage')){
         function errorMessage($code,$message){

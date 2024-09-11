@@ -4,12 +4,10 @@ Connecto is a Linktree clone that has been written using Vue JS and PHP.
 
 ## Installation
 
-Use the package manager [composer](https://getcomposer.org/) to install Connecto.
+To Install, make sure you have apache and mysql installed and just clone the repo and move it to the www folder in your apache server
 
 ```bash
 git clone https://github.com/id0ntbyte/connecto
-cd connecto
-composer install
 ```
 You can also use the database.sql file provided to create the database required for the project to work properly by importing it in PhpMyAdmin or from the terminal by running
 ```

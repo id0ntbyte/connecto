@@ -1,0 +1,13 @@
+<?php
+
+$username1515="root"; // Mysql username 
+$password1515="root"; // Mysql password	
+$db_name1515="connecto"; // Database name  
+$host1515 = "localhost"; //Host Name
+
+
+$SMSUrl = '';
+$SMSUsername = '';
+$SMSPassword = '';
+
+?>
